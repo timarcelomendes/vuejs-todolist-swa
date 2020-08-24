@@ -6,7 +6,7 @@
         <h2 class="ui inverted header">Marcelo Mendes
           <div class="sub header">Negócios em TI @ Memora</div>
         </h2>
-        <h3 class="ui inverted header">Rio de Janeiro, Brasil - 2020</h3>
+        <h3 class="ui inverted header">Goiânia, Brasil - 2020</h3>
         <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/user/l32759">
           <i class="youtube icon"></i>
           YouTube
