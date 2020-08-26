@@ -7,15 +7,15 @@
           <div class="sub header">Negócios em TI @ Memora</div>
         </h2>
         <h3 class="ui inverted header">Goiânia, Brasil - 2020</h3>
-        <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/user/l32759">
+        <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/watch?v=4bM49UtOZZw">
           <i class="youtube icon"></i>
           YouTube
         </a>
-        <a class="tiny ui linkedin button" type="button" href="https://www.linkedin.com/in/glaucialemos/">
+        <a class="tiny ui linkedin button" type="button" href="https://www.linkedin.com/in/marcelommendes/">
           <i class="linkedin icon"></i>
           LinkedIn
         </a>
-        <a class="tiny ui twitter button" type="button" href="https://twitter.com/glaucia_lemos86">
+        <a class="tiny ui twitter button" type="button" href="https://twitter.com/timarcelomendes">
           <i class="twitter icon"></i>
           Twitter
         </a>
